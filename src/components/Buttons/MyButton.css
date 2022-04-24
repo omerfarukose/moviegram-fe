@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.btn-container{
+    justify-content: center;
+}
+
+.btn-home{
+    border-radius: 10px;
+    height: 30px;
+    width: 150px;
+    border: none;
+    color: white;
+}
+
+.btn-blue{
+    background-color: #3f88c5;
+}
+.btn-gray{
+    background-color: white;
+    color: #3f88c5;
+}

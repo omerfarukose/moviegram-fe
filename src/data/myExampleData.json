@@ -1,0 +1,51 @@
+[
+    {
+        "id":0,
+        "imageUrl":"https://m.media-amazon.com/images/M/MV5BMmUwOWVhNmEtZTAxMS00NjhmLTkzM2ItOTI5ODk3NjgyYjk4XkEyXkFqcGdeQXVyNDQ0MTYzMDA@._V1_FMjpg_UX1000_.jpg",
+        "movieName":"Örümcek-Adam: Eve Dönüş Yok",
+        "title":"Örümcek-Adam: Eve Dönüş Yok Filmini Çok Sevdim !",
+        "text":"Çizgi romanların, “zararlı neşriyat” ilan edildiği, kuytu köşelerde aileden gizli okunduğu karanlık çağlarda büyüdüm ama şanslıydım ki ailem bu saçmalığa kanmamıştı. Neredeyse çıkan her çizgi romanı alıyor, harçlığım yetmediğinde de arkadaşlarımla değiş tokuş ediyordum. Takasa sokmadığım iki favori kahramanım vardı. Biri, kurduğu fantastik evren ile aklımı başımdan alan Conan diğeri ise kolayca özdeşlik yakaladığım, Marvel’daki başka süperlere benzemeyen bir çelimsiz oğlan: Peter Parker, nam-ı diğer; Örümcek Adam!Kenar mahallede amcası ve halasıyla yaşayan, bir sürü sosyal problemi olan, okurken çalışmak zorunda kalan Peter Parker benim kahramanımdı. Dönemin popüler aksiyon oyuncusu Jackie Chan gibi kaçarak dövüşür, düşmanlarını alaya almaktan çekinmezdi. Ego dağına dönüşmüş diğer Marvel kahramanlarından çok farklıydı. Üstelik o da bizim gibi sevdiğine pek açılamazdı!",
+        "author": {
+            "name":"Ömer Faruk Köse",
+            "imageUrl":"https://media-exp1.licdn.com/dms/image/C4E03AQFYIhvlCLQ7fw/profile-displayphoto-shrink_800_800/0/1634408897588?e=1655337600&v=beta&t=9eu3H4crWM93UrbCh2daNc4tQywK2ZnUk4cfewU_Q8s",
+            "date":"17 Haziran 2022"
+            
+        }
+    },
+    {
+        "id":1,
+        "imageUrl":"https://m.media-amazon.com/images/M/MV5BZjlmYjY0MTEtYjNmOC00OWQ5LWEyMGEtYzYxYTc2MjI4MTVjXkEyXkFqcGdeQXVyMzMwOTU5MDk@._V1_.jpg",
+        "movieName":"The Batman",
+        "title":"The Batman Filmini Çok Sevdim !",
+        "text":"Robert Pattinson’ın Batman, Zoe Kravitz’in ise Kedi Kız olarak karşımıza çıkacağı yeni Batman filmi bugün vizyona giriyor. Sinemaları süper kahraman filmleri, bu alanı ise Marvel işleri domine ediyor ancak kime sorarsanız bu alemin en süper iki kahramanı DC’de. Biri Süpermen, diğeri ise ekran ve beyazperde yolculuğunu on yıllar önce başlayan Batman! Ne yalan söyleyeyim; Artık süper kahraman filmlerinden soğumuş olmama rağmen, çocukluğumdan beri birlikte olduğum Gothamlı Batman’in bende ayrı bir yeri var, bu sebeple beklentim büyüktü.Bob Kane ve Bill Finger tarafından yaratılan bir kurgu karakter olan Batman ilk olarak 1940'larda iki serial filmle perdede göründü. 1960'larda bir TV dizisi oldu ve o diziden uzun metrajlı film uyarlaması çıktı; 1966 yapımı Batman. 1980'lerin sonlarına doğru Warner Bros, Tim Burton'ın yönettiği ve Michael Keaton'ın oynadığı Batman ile karakteri pulp imajından kurtarmayı başardı. Üstelik çizgi romandaki karanlığı ve delilik halini korumayı başararak.",
+        "author": {
+            "name":"Emrehan Kısacık",
+            "imageUrl":"https://avatars.githubusercontent.com/u/58311722?v=4",
+            "date":"9 Mayıs 2022"
+        }
+    },
+    {
+        "id":2,
+        "imageUrl":"https://m.media-amazon.com/images/M/MV5BY2QyOWZlMjEtYzVlMi00NzhkLWE1YTEtYWI5YTc3ZGRhN2QxXkEyXkFqcGdeQXVyOTgxMDMxNTc@._V1_.jpg",
+        "movieName":"Venom: Zehirli Öfke",
+        "title":"Venom Filmini Çok Sevdim !",
+        "text":"Çizgi roman dünyasının en bilinen ve en güçlü iki markası, Marvel ve DC Comics’in ürünleri bildiğiniz gibi sayısız yan sektörde milyarlarca dolarlık gelir sağladı. Bilgisayar oyunları, oyuncaklar, kostümler, TV serileri ve pek tabii filmler. Onlarca yıldır devam eden bu devasa sektörün bu derece kuvvetli başka üyeleri de var. Keza bu üyelerin sahibi olduğu çizgi roman serilerinin de binbir çeşit “yan ürünü”. Sam Raimi’nin beğenilen ancak orijinal kaynağına göre biraz serbest bir uyarlama olarak görülen üçlemesi, daha öncesinde çekilen Spawn uyarlaması (ki yakında bir reboot filmine merhaba diyeceğiz), Green Lantern gibi büyük bir başarısızlık abidesi, Tim Burton imzalı efsanevi Batman’ler, Christopher Reeve’in başrolünde olduğu bir klasik, Superman ve daha nice süper kahraman filmi.",
+        "author": {
+            "name":"Fatih Kadir Akın",
+            "imageUrl":"https://avatars.githubusercontent.com/u/196477?v=4",
+            "date":"4 Ocak 2022"
+        }
+    },
+    {
+        "id":3,
+        "imageUrl":"https://m.media-amazon.com/images/M/MV5BOTk5ODg0OTU5M15BMl5BanBnXkFtZTgwMDQ3MDY3NjM@._V1_FMjpg_UY711_.jpg",
+        "movieName":"Aquaman",
+        "title":"Aquaman Filmini Çok Sevdim !",
+        "text":"Artık beyazperdede ciddi bir DC ve Marvel kapışmasından söz edebilmek pek mümkün değil. Nitekim Marvel’ın 10 yıllık süreçte ince ince işlediği, öncesinde de sinematik evrenin temellerini sağlıklı bir biçimde attığı öykü evreni; artık aksiyonu kadar karakter derinliği ve alt öyküleriyle de, hedeflediği cazibeyi yakalamış durumda. DC kanalında ise, işler bir sinematik evrene evrilmeden önce yer yer sağlıklı gidiyordu diyebiliriz. Fakat DCEU’nun miladı kabul edilebilecek Man of Steel’in ardından işler, pek de herkesi memnun edecek şekilde gelişmedi.",
+        "author": {
+            "name":"Ahmet Alp Balkan",
+            "imageUrl":"https://avatars.githubusercontent.com/u/159209?v=4",
+            "date":"23 Kasım 2022"
+        }
+    }
+]
